@@ -1,4 +1,4 @@
-package com.cabozago;
+package com.cheonmoim.cabozago;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
